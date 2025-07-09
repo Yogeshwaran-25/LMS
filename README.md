@@ -42,10 +42,6 @@ lms-project/
 ├── /uploads # File submissions
 └── .env # Environment config
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🚀 Getting Started
